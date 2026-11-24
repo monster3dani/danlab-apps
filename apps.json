@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "avradio",
+      "name": "AVRadio",
+      "package": "net.danlab.avradio",
+      "device": "car",
+      "icon": "icons/avradio.png",
+      "desc": {
+        "es": "La radio FM de tu pantalla, rediseñada: favoritas, RDS, fondo con el tiempo y datos del coche.",
+        "en": "Your screen's FM radio, redesigned: favourites, RDS, weather background and car data.",
+        "ca": "La ràdio FM de la teva pantalla, redissenyada: preferides, RDS, fons amb el temps i dades del cotxe."
+      },
+      "note": {
+        "es": "Para pantallas con sistema TopWay (TS10, TS18…).",
+        "en": "For screens with the TopWay system (TS10, TS18…).",
+        "ca": "Per a pantalles amb sistema TopWay (TS10, TS18…)."
+      },
+      "apk": "https://github.com/monster3dani/avradio-descargas/releases/latest/download/AVRadio.apk",
+      "url": "https://github.com/monster3dani/avradio-descargas/releases/latest"
+    },
+    {
+      "id": "avlauncher",
+      "name": "AVLauncher",
+      "package": "com.danlab.avlauncher",
+      "device": "car",
+      "icon": "icons/avlauncher.png",
+      "desc": {
+        "es": "Pantalla de inicio racing para el coche: mapa, música, cuentarrevoluciones y el coche con puertas y sensores.",
+        "en": "Racing home screen for your car: map, music, rev counter and your car with doors and sensors.",
+        "ca": "Pantalla d'inici racing per al cotxe: mapa, música, comptarevolucions i el cotxe amb portes i sensors."
+      },
+      "note": {
+        "es": "Los datos del coche funcionan en pantallas TopWay.",
+        "en": "Car data works on TopWay screens.",
+        "ca": "Les dades del cotxe funcionen en pantalles TopWay."
+      },
+      "apk": "https://github.com/monster3dani/avlauncher-descargas/releases/latest/download/AVLauncher.apk",
+      "url": "https://github.com/monster3dani/avlauncher-descargas/releases/latest"
+    },
+    {
+      "id": "senda",
+      "name": "Senda",
+      "device": "phone",
+      "icon": "icons/senda.png",
+      "qr": "qr/senda.png",
+      "desc": {
+        "es": "Tus caminatas, rutas en bici y viajes por etapas sobre el mapa, con vídeo en 3D para compartir.",
+        "en": "Your walks, bike rides and multi-stage trips on the map, with a 3D video to share.",
+        "ca": "Les teves caminades, rutes en bici i viatges per etapes sobre el mapa, amb vídeo en 3D per compartir."
+      },
+      "url": "https://github.com/monster3dani/senda/releases/latest"
+    },
+    {
+      "id": "avzonazul",
+      "name": "AVZonazul",
+      "device": "phone",
+      "icon": "icons/avzonazul.png",
+      "qr": "qr/avzonazul.png",
+      "desc": {
+        "es": "Te dice qué app de pago de zona azul funciona en el municipio donde has aparcado.",
+        "en": "Tells you which blue-zone parking app works in the town where you parked.",
+        "ca": "Et diu quina app de pagament de zona blava funciona al municipi on has aparcat."
+      },
+      "url": "https://monster3dani.github.io/avzonazul/"
+    }
+  ]
+}
